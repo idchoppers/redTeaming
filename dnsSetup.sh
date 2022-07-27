@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Script creates a dnsmasq DNS server installation and configuration
+# Useage: dnsSetup.sh "domain.example" "C2 server IP"
+
 apt install dnsmasq -y
 systemctl enable dnsmasq
 
