@@ -1,4 +1,2 @@
-# rtsetup
-Scripts to set up Red Team practice labs.
-
-\# dnsSetup.sh <domain.xyz> <c2ip>
+# redTeaming
+Any and all scripts that I make for Red Teaming/Pentesting
