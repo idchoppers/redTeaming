@@ -3,6 +3,9 @@
 # Script creates a dnsmasq DNS server installation and configuration
 # Useage: dnsSetup.sh "domain.example" "C2 server IP"
 
+# Copyright 2022 Kyle Smith
+# Licensed under GPL-3.0-or-later
+
 apt install dnsmasq -y
 systemctl enable dnsmasq
 
