@@ -1,5 +1,8 @@
 <#
     A simple login test script, launches powershell with the given username and password
+
+    Copyright 2022 Kyle Smith
+    Licensed under GPL-3.0-or-later
 #>
 
 Param (
